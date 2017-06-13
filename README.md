@@ -1,1 +1,3 @@
-# grupo-3
+# ajc-flexbox
+**GRUPO-3**  
+**PRACTICA FLEXBOX**

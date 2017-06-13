@@ -1,0 +1,16 @@
+{
+  "name": "ajc-flexbox",
+  "version": "1.0.0",
+  "description": "trabajo flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "developer-bananitas",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "livereload": "^0.6.2",
+    "node-static": "^0.7.9"
+  }
+}
