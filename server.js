@@ -1,5 +1,5 @@
 var nodestatic = require('node-static'),
-    port = 1030,
+    port = 4010,
     http = require ('http');
 
 var file = new nodestatic.Server('./public',{
